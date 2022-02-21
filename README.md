@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leonmck-dsp-dev
-- 👀 I’m interested in ... DSP 
-- 🌱 I’m currently learning ... C
-- 💞️ I’m looking to collaborate on ...
- - 📫 How to reach me ...
+- 👀 I’m interested in ... ML, DSP, audio software and software engineering in general
+- 🌱 I’m currently learning ... javascript 
+- 💞️ I’m looking to collaborate on ...anything
+ - 📫 How to reach me ... At lstarrmckenzie@gmail.com
 
 <!---
 leonmck-dsp-dev/leonmck-dsp-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
