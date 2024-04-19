@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonmck-dsp-dev
 - 👀 I’m interested in ... ML, DSP, audio software and software engineering in general
-- 🌱 I’m currently learning ... pytorch and speech recognition 
+- 🌱 I have a BSc in Audio Engineering, an MSc in Digital Audio Engineering and im doing my PhD in Audio AI Looking at improving Speech recognition on impaired speech
 - 💞️ I’m looking to collaborate on ...anything audio related
  - 📫 How to reach me ... At lstarrmckenzie@gmail.com
 
