@@ -11,7 +11,7 @@ PhD Research in ASR & AI: Actively researching and developing Automatic Speech R
 
 Technical Toolkit
 
-- Languages: C++, Rust, Python, 
+- Languages: C++, Rust, Python
 
 – Frameworks: JUCE, VST3, AU, AAX
 
