@@ -13,7 +13,7 @@ Technical Toolkit
 
 - Languages: C++, Rust, Python
 
-– Frameworks: JUCE, VST3, AU, AAX
+- Frameworks: JUCE, VST3, AU, AAX
 
 - DevOps & Tools: Git, GitHub Actions (CI/CD), Unit Testing, CMake, NeoVim, MacOS/Linux 
 <!---
