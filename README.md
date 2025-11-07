@@ -10,11 +10,12 @@ Advanced Digital Signal Processing (DSP): Expertise in creating algorithms—fro
 PhD Research in ASR & AI: Actively researching and developing Automatic Speech Recognition (ASR) systems specifically tailored for dysarthric speech (impaired speech). This work focuses on applying advanced AI/ML to solve critical communication challenges.
 
 Technical Toolkit
-Languages: C++, Rust, Python, 
 
-Frameworks: JUCE, VST3, AU, AAX
+- Languages: C++, Rust, Python, 
 
-DevOps & Tools: Git, GitHub Actions (CI/CD), Unit Testing, CMake, NeoVim, MacOS/Linux 
+– Frameworks: JUCE, VST3, AU, AAX
+
+- DevOps & Tools: Git, GitHub Actions (CI/CD), Unit Testing, CMake, NeoVim, MacOS/Linux 
 <!---
 leonmck-dsp-dev/leonmck-dsp-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
